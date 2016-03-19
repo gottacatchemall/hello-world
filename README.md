@@ -1,2 +1,2 @@
 # hello-world
-First program on github
+This is my first program on Github. I am a first year Computer Science student at Monash University.
